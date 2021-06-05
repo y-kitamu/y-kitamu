@@ -1,1 +1,1 @@
-[![y-kitamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-kitamu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![y-kitamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-kitamu&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
